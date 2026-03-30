@@ -77,7 +77,7 @@ Concepts used:`read` for user input, string concatenation, writing to file with 
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/<your-username>/oss-audit-24MEI10057.git
+git clone https://github.com/<enehaal>/oss-audit-24MEI10057.git
 cd oss-audit-24MEI10057
 ```
 
