@@ -10,7 +10,7 @@
 # Example: ./script4.sh /var/log/syslog error
 # ============================================================
 
-# --- Read command-line arguments ---
+# Read command-line arguments
 # Original: LOGFILE=$1                   # First argument: path to log file
 # Original: KEYWORD=${2:-"error"}        # Second argument: keyword (default: 'error')
 
